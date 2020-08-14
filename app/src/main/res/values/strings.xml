@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Delivary</string>
+    <string name="Button">CONFIRM</string>
+    <item name="btn" type="id"/>
+</resources>
